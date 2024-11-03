@@ -1,0 +1,3 @@
+/Users/diana/Desktop/Dijkstra/cmake-build-debug/CMakeFiles/Dijkstra.dir
+/Users/diana/Desktop/Dijkstra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diana/Desktop/Dijkstra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
